@@ -1,0 +1,37 @@
+*{
+    background: linear-gradient(to right, #141e30, #243b55);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ceceb9;
+}
+
+img {
+    background: none;
+    
+}
+
+a{
+    background: none;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+}
+ul li {
+    list-style-type: none;
+    margin-top: 1rem;
+}
+.image-recipe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    height:auto;
+    width: 600px;
+
+}
+ol li {
+    margin-top: 1rem;
+}
+h2, h3{
+    text-align: center;
+}
